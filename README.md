@@ -27,7 +27,4 @@ Smartface Team.
 - [API Docs](http://ref.smartface.io)
 - [Smartface Cloud Dashboard](https://cloud.smartface.io)
 - [Download Smartface On-Device Emulator](https://smf.to/app) (Works only from your device)
-
-
-
-Oylesine deneme yazısı isteBurası demo ortamı
+Burası demo ortamı
